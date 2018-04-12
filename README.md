@@ -1,4 +1,4 @@
-# Marginalised Denoising for Nonlinear Respresentations
+## Marginalised Denoising Autoencoders for Nonlinear Respresentations
 Tensorflow implementation of the paper [Marginalized Denoising Auto-encoders for Nonlinear Representations][main-paper] (ICML 2014). Other denoising techniques have longer training time and high computational demands. *mDA* addresses the problem by implicitly denoising the raw input via Marginalization and, thus, is effectively trained on *infinitely* many training samples without explicitly corrupting the data. There are similar approaches but they have non-linearity or latent representations stripped away. This addresses the disadvantages of those approaches, and hence is a generalization of those works.
 
 ### Requirements
