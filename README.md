@@ -16,7 +16,7 @@ python mdA.py
 
 
 Resulted filters of first layer during training:  
-![Image Filter Gif](https://raw.githubusercontent.com/satwik77/mDA-Tensorflow/master/image-filters.gif)  
+![Image Filter Gif](https://raw.githubusercontent.com/satwik77/mDA-Tensorflow/master/image-filters.gif?token=AKhAbQmuInoOJ7gkhJq9fxTwXkrh7fEQks5a2NjvwA%3D%3D)  
 The filters are continuously improving and learning specialized feature extractors.
 
 ### References
